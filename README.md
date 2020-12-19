@@ -10,7 +10,7 @@ https://tweets-quote-generator.netlify.app
 
 
 Quote generator é uma aplicação web construída de maneira simples capaz de publicar frases motivadoras
-com a facilidade de apenas um click, idealiza para o twitter, quote generator utiliza uma api para gerar
+com a facilidade de apenas um click, idealizada para o twitter, quote generator utiliza uma api para gerar
 frases de maneira randómica.
 Desenvolvida por mim com o propósito de testar e adquirir novos conhecimentos.
 
